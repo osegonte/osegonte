@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 
 <br>👋 Hi, I’m Osegonte Hopo<br>
-I’m a Business Intelligence intern who builds apps with the help of AI tools like **Claude** and **ChatGPT** to automate workflows, extract insights, and solve real-world problems. From study platforms to trading systems, I focus on making development faster, smarter, and more efficient.<br><br>
+A Business Intelligence intern who builds apps with the help of AI tools like **Claude** and **ChatGPT** to automate workflows, extract insights, and solve real-world problems. From study platforms to trading systems, I focus on making development faster, smarter, and more efficient.<br><br>
 
 At **Machi Kunzult LTD**, I designed cost-saving internal tools and optimized marketing strategies—applying the same practical, problem-solving mindset to all my projects.<br><br>
 
